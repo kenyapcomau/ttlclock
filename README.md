@@ -1,6 +1,6 @@
 # TTL clock
 
-These are the Kicad design files for the TTL clock described in my (Hackaday project)[https://hackaday.io/project/168157-ttl-binary-clock]
+These are the Kicad design files for the TTL clock described in my [Hackaday project](https://hackaday.io/project/168157-ttl-binary-clock)
 
 ## Versioning
 
